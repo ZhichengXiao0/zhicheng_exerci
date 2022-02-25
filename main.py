@@ -1,1 +1,2 @@
-print("Peace on Earth")
+print("Peace on Earth!")
+print("Stop the War!")
